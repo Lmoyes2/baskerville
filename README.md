@@ -1,2 +1,2 @@
 # baskerville
-https://github.com/Lmoyes2/baskerville/blob/gh-pages/baskerville.html
+[version1](https://lmoyes2.github.io/baskerville/baskerville.html)
