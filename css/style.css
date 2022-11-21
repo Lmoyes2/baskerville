@@ -66,7 +66,7 @@ a {
 }
 
 a:hover {
-    color: #ffffff;
+    color: #651470;
     border-bottom: 1px dotted;
 
 }
@@ -101,8 +101,8 @@ nav a {color: #f7f7f7;}
 
 nav a:hover {
     border-bottom: none;
-    color: rgb (114, 4, 81);
-    transition: all 0.3 ease-in-out;
+    color: rgb(114, 4, 81);
+    transition: all o.3 ease-in-out;
 }
 
 /*--Styling table--*/
@@ -126,13 +126,13 @@ th {
     font-weight: normal;
     text-align: left;
     color: #f7f7f7;
-    background:rgb (194, 15, 140);
+    background:rgb(194, 15, 140);
 }
 
 th, td {padding: 0.4em;}
 
 table, td {
-    background: rgb (194 15 140 / 29%);
+    background: rgb(194 15 140 / 29%);
     border: 2px solid #f7f7f7;
 }
 
