@@ -59,6 +59,10 @@ blockquote cite {
     color: #333333;
 }
 
+.leader {
+    text-transform: uppercase;
+}
+
 /*-- styling links --*/
 a {
     color: #651470;
@@ -106,6 +110,7 @@ nav a:hover {
 }
 
 /*--Styling table--*/
+
 table {
     margin:auto;
     display:table;
@@ -132,20 +137,82 @@ th {
 th, td {padding: 0.4em;}
 
 table, td {
-    background: rgb(194 15 140 / 29%);
+    background: rgb (194 15 140 / 29%);
     border: 2px solid #f7f7f7;
 }
 
+hr{
+    margin:100px 0;
+    height: 1px;
+    background-color:rgb (194 15 140 / 29%);
+}
+
 /*--images--*/
+
 img {
     display: block;
     margin: 4rem 0;
     padding: 0;
     max-width: 100%;
+
+}
+
+hr {margin:100px 0;
+    height: 1px;
+    background-color:rgb (194 15 140 / 29%);
+    color: rgb(194 15 140 / 29%);
+    border: 0 none;
 }
 
 footer {
-    text-align: center;
-    font-size: 0.8rem;
-    padding-bottom: 3rem;
-}
+        background: #030307;
+        text-align: center;
+        font-size: 0.75rem;
+        color: #f7f7f7;
+        padding: 4em 0 3em 0
+        }
+        
+footer p {
+        margin: .5em
+        }
+        
+.connections{
+        position: relative;
+        margin: 0 auto;
+        }
+
+.connections ul{
+        margin: 0;
+        padding: 0;
+        }
+
+.connections li{
+        margin: 0 10px;
+        padding: 0;
+        list-style: none;
+        display: inline-block;
+        }
+
+.connections a:link{
+        border-bottom: none;
+        }
+
+        .connections img,
+        .connections svg{
+        border: none;
+        }
+
+        .connections a:hover img,
+.connections a:hover svg{
+        border-bottom: none;}
+
+.connections svg {
+        margin: 1em auto;}
+
+.connections a:hover svg path {
+        fill: #D8C385;
+        transition: all 0.2s ease-in-out;}
+        
+footer .connections a:hover svg path {
+        fill: #D8C385;
+        transition: all 0.2s ease-in-out;}
