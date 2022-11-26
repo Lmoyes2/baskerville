@@ -105,8 +105,8 @@ nav a {color: #f7f7f7;}
 
 nav a:hover {
     border-bottom: none;
-    color: rgb(114, 4, 81);
-    transition: all o.3 ease-in-out;
+    color: rgb (114, 4, 81);
+    transition: all 0.3 ease-in-out;
 }
 
 /*--Styling table--*/
@@ -131,7 +131,7 @@ th {
     font-weight: normal;
     text-align: left;
     color: #f7f7f7;
-    background:rgb(194, 15, 140);
+    background:rgb (194, 15, 140);
 }
 
 th, td {padding: 0.4em;}
@@ -160,7 +160,7 @@ img {
 hr {margin:100px 0;
     height: 1px;
     background-color:rgb (194 15 140 / 29%);
-    color: rgb(194 15 140 / 29%);
+    color: rgb (194 15 140 / 29%);
     border: 0 none;
 }
 
