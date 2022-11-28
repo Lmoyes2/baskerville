@@ -65,14 +65,14 @@ blockquote cite {
 
 /*-- styling links --*/
 a {
-    color: #be52cd;
+    color: #651470;
     text-decoration: none;
 }
 
 a:hover {
-    color: #651470;
+    color: #be52cd;
     border-bottom: 1px dotted;
-
+    transition: all 0.3 ease-in-out;
 }
 
 /*-- Navigation --*/
