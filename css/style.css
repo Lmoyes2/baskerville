@@ -218,10 +218,10 @@ footer p {
 .connections svg {
         margin: 1em auto;}
 
-.connections a:hover svg path {
-        fill: #D8C385;
+connections a:hover svg path {
+        fill: #be52cd;
         transition: all 0.2s ease-in-out;}
         
 footer .connections a:hover svg path {
-        fill: #D8C385;
+        fill: #be52cd;
         transition: all 0.2s ease-in-out;}
