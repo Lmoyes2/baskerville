@@ -103,10 +103,10 @@ nav ul li {
 
 nav a {color: #f7f7f7;}
 
-nav a:hover {
+nav a: hover {
     border-bottom: none;
     color: #be52cd;
-    transition: all 2s ease-in-out;
+    transition: all 0.5s ease-in-out;
 }
 
 .gridimage {
