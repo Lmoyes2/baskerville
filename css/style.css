@@ -106,7 +106,7 @@ nav a {color: #f7f7f7;}
 nav a:hover {
     border-bottom: none;
     color: #be52cd;
-    transition: all 0.3 ease-in-out;
+    transition: all 0.5 ease-in-out;
 }
 
 .gridimage {
