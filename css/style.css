@@ -70,9 +70,9 @@ a {
 }
 
 a:hover {
-    color: #be52cd;
+    color: #651470;
     border-bottom: 1px dotted;
-    transition: all 0.3 ease-in-out;
+    
 }
 
 /*-- Navigation --*/
@@ -105,7 +105,7 @@ nav a {color: #f7f7f7;}
 
 nav a:hover {
     border-bottom: none;
-    color: rgb(114, 4, 81);
+    color: #be52cd;
     transition: all 0.3 ease-in-out;
 }
 
